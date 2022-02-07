@@ -2,5 +2,5 @@
 title: "Welcome to blogestan"
 ---
 
-I'm glad you are here. I plan to talk about ...
+## Let the games begin
 It will be a long and bumpy journey
